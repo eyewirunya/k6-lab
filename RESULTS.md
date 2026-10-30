@@ -15,7 +15,7 @@ Step 0.8, what was wrong in the API and how checks caught it: The API requires e
 | A1 | Smoke | 1 | 0.51/s | 395.64 ms | 555.77 ms | 0.00% | 100.00% |
 | A2 | Average load | 3 | 1.33/s | 358.24 ms | 633.35 ms | 0.00% | 100.00% |
 | A3 | Stress | 5 | 2.14/s | 357.96 ms | 379.75 ms | 0.00% | 100.00% |
-| A4 | Spike | 5 | | | | | |
+| A4 | Spike | 5 | 1.03/s | 373.56 ms | 389.22 ms | 0.00% | 100.00% |
 | A5 | Soak | 2 | | | | | |
 
 ## Part B
