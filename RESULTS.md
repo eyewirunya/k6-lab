@@ -12,8 +12,8 @@ Step 0.8, what was wrong in the API and how checks caught it: The API requires e
 ## Part A results
 | Step | Test type | Users | Req/s | p(95) | Max | Failed | Checks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A1 | Smoke | 1 | | | | | |
-| A2 | Average load | 3 | | | | | |
+| A1 | Smoke | 1 | 0.51/s | 395.64 ms | 555.77 ms | 0.00% | 100.00% |
+| A2 | Average load | 3 | 1.33/s | 358.24 ms | 633.35 ms | 0.00% | 100.00% |
 | A3 | Stress | 5 | | | | | |
 | A4 | Spike | 5 | | | | | |
 | A5 | Soak | 2 | | | | | |
